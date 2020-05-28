@@ -5,6 +5,7 @@ cd Laboratory/Integration/
 python3 new_main.py
 
 ## Dependencies
+Install Opengazer: [https://github.com/qiffp/OpenGazer]
 
 ### python3-pip
 
