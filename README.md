@@ -1,7 +1,7 @@
 # Personalized-summary-from-eye-gaze
 
-Run:
-cd Integration
+## Run:
+cd Laboratory/Integration/
 python3 new_main.py
 
 ## Dependencies
