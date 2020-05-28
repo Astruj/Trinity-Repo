@@ -1,5 +1,11 @@
 # Personalized-summary-from-eye-gaze
 
+Run:
+cd Integration
+python3 new_main.py
+
+## Dependencies
+
 ### python3-pip
 
 * PyQt5
